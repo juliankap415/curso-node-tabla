@@ -1,0 +1,12 @@
+en la linea de comando de la aplicacion que se este trabajando de escribe
+npm init 
+ahi se empieza a solicitar informacion como package, version descripcion
+
+
+// Para instalar la dependencia de colores
+npm install colors
+//version especifica
+npm install colors@1.0.0
+
+// lo que nodemon necesita para ejecutarse -- Para autoejecutarse en consolo los codigos
+npm install nodemon --save-dev     
